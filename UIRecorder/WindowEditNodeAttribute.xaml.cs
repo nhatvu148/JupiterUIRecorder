@@ -18,7 +18,7 @@ using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace WinAppDriverUIRecorder
+namespace JupiterUIRecorder
 {
     /// <summary>
     /// Interaction logic for WindowEditNodeAttribute.xaml

@@ -17,7 +17,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace WinAppDriverUIRecorder
+namespace JupiterUIRecorder
 {
     public enum EnumUiTaskName : UInt32
     {

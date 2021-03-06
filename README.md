@@ -1,6 +1,6 @@
-# WinAppDriver UI Recorder Tool
+# Jupiter UI Recorder Tool
 
-This tool allows UI element inspection and generates an XPath query to the element. More information can be found on the [wiki](https://github.com/Microsoft/WinAppDriver/wiki/WinAppDriver-UI-Recorder).
+This tool allows UI element inspection and generates an XPath query to the element.
 
 
 ## Requirements
@@ -11,5 +11,5 @@ This tool allows UI element inspection and generates an XPath query to the eleme
 
 ## Getting Started
 
-1. Open `WinAppDriverUIRecorder.sln` in Visual Studio
+1. Open `JupiterUIRecorder.sln` in Visual Studio
 2. Select **Debug** > **Start Debugging** or simply **Run**

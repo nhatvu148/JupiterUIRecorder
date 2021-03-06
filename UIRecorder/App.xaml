@@ -9,10 +9,10 @@
 //
 //*********************************************************
 -->
-<Application x:Class="WinAppDriverUIRecorder.App"
+<Application x:Class="JupiterUIRecorder.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:WinAppDriverUIRecorder"
+             xmlns:local="clr-namespace:JupiterUIRecorder"
              ShutdownMode="OnMainWindowClose"
              StartupUri="MainWindow.xaml">
     <Application.Resources>

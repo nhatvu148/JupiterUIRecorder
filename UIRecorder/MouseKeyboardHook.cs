@@ -17,7 +17,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace WinAppDriverUIRecorder
+namespace JupiterUIRecorder
 {
     [StructLayout(LayoutKind.Sequential)]
     public struct RECT
@@ -409,8 +409,8 @@ namespace WinAppDriverUIRecorder
                 else
                     NativeMethods.PostMessage(MainWindow.s_windowHandle, (int)MainWindow.UiThreadTask.Active, 0, 0);
             }
-          
-            if(s_bPauseMouseKeyboard == false)
+
+            if (s_bPauseMouseKeyboard == false)
             {
                 MouseKeyboardEventHandler.RecordKey(kEvent, vk, scanCode);
             }

@@ -8,11 +8,11 @@
   <job platform="x86" configuration="Release" dest="__RELBINPATH__\Signed" jobname="WinAppDriver UIRecorder" approvers="gillesk;timargo">
     <!-- Win32 -->
     <file src="__RELBINPATH__\UIXPathLib.dll" signType="Authenticode" dest="__RELBINPATH__\Signed\UIXPathLib.dll" />
-    <file src="__RELBINPATH__\WinAppDriverUiRecorder.exe" signType="Authenticode" dest="__RELBINPATH__\Signed\WinAppDriverUiRecorder.exe" />
+    <file src="__RELBINPATH__\JupiterUIRecorder.exe" signType="Authenticode" dest="__RELBINPATH__\Signed\JupiterUIRecorder.exe" />
   </job>
   <job platform="x64" configuration="Release" dest="__RELBINPATH__\Signed" jobname="WinAppDriver UIRecorder" approvers="gillesk;timargo">
     <!-- X64 -->
     <file src="__RELBINPATH__\UIXPathLib.dll" signType="Authenticode" dest="__RELBINPATH__\Signed\UIXPathLib.dll" />
-    <file src="__RELBINPATH__\WinAppDriverUiRecorder.exe" signType="Authenticode" dest="__RELBINPATH__\Signed\WinAppDriverUiRecorder.exe" />
+    <file src="__RELBINPATH__\JupiterUIRecorder.exe" signType="Authenticode" dest="__RELBINPATH__\Signed\JupiterUIRecorder.exe" />
   </job>
 </SignConfigXML>

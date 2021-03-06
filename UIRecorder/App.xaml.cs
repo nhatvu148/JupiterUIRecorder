@@ -19,7 +19,7 @@ using System.Collections.Generic;
 using System.Windows;
 using Microsoft.ApplicationInsights;
 
-namespace WinAppDriverUIRecorder
+namespace JupiterUIRecorder
 {
     public class AppInsights
     {

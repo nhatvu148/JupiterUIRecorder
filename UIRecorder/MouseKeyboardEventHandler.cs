@@ -20,7 +20,7 @@ using System.Text;
 using System.Timers;
 using System.Threading;
 
-namespace WinAppDriverUIRecorder
+namespace JupiterUIRecorder
 {
     public enum MouseState
     {
